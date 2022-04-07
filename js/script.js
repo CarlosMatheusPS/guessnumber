@@ -54,7 +54,7 @@ function handlesubmit(e) {
 };
 
 function playAgain() {
-    document.getElementById('btnRestart').style.display = 'flex';
+    document.getElementById('btnRestart').style.display = 'inline-block';
 };
 
 function restart() {
